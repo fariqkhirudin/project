@@ -1,0 +1,9 @@
+[user]
+	name = fariqkhirudin
+	email = fariqkhirudin@gmail.com
+[http]
+	sslBackend = openssl
+	sslVerify = false
+
+[https]
+	sslBackend = schannel
